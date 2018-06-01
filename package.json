@@ -1,0 +1,24 @@
+{
+  "name": "selenium-demo",
+  "version": "1.0.0",
+  "description": "Demo of using Selenium and Nightwatch to automate a DuckDuckGo search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruddell/selenium-nightwatch-demo.git"
+  },
+  "keywords": [
+    "selenium",
+    "nightwatch",
+    "e2e"
+  ],
+  "author": "Jon Ruddell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruddell/selenium-nightwatch-demo/issues"
+  },
+  "homepage": "https://github.com/ruddell/selenium-nightwatch-demo#readme"
+}
